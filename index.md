@@ -1,8 +1,6 @@
-## Welcome to Mathematical Meetings of the Americas and Africa
+## Welcome to Mathematical Meetings of Europe, the  Americas, and Africa
 
-You can use the [editor on GitHub](https://github.com/EddyKwessi/Kwessi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+MMEAA is a series of meetings between students, early careers faculty, and established researchers living in Europe, the Americas, and Africa.
 
 ### Markdown
 
