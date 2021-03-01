@@ -1,6 +1,7 @@
 ## Welcome to Mathematical Meetings of Europe, the  Americas, and Africa
 
 MMEAA is a series of meetings between students, early careers faculty, and established researchers living in Europe, the Americas, and Africa.
+This series of meetings is open to anyone who is interested in organizing colloquia,  worskops, and conferences geared toward the groups mentioned above.
 
 ### Markdown
 
